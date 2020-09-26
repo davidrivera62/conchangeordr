@@ -117,7 +117,7 @@ Validar aplicación.";9/01/2020 8:28;9/01/2020 8:28;0;CUMPLE;10;CUMPLE;enero;Mó
 Validar aplicación.";9/01/2020 8:31;9/01/2020 8:31;0;CUMPLE;10;CUMPLE;enero;Móvil;#N/A;NO
 2507721;Carlos Montilla;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;9/01/2020 9:11;9/01/2020 18:20;548;9,13;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";9/01/2020 9:11;9/01/2020 9:11;0;CUMPLE;10;INCUMPLE;enero;Móvil;INDRA_AmbNoProd_SLA8;NO
-2507981;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.MSS.Despliegue PPDN;9/01/2020 13:00;9/01/2020 13:07;7;0,12;Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución ;9/01/2020 15:00;9/01/2020 16:00;60;CUMPLE;10;CUMPLE;enero;Fijo;#N/A;NO
+2507981;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.MSS.Despliegue PPDN;9/01/2020 13:00;9/01/2020 13:07;7;0,12;"Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución ";9/01/2020 15:00;9/01/2020 16:00;60;CUMPLE;10;CUMPLE;enero;Fijo;#N/A;NO
 2508109;Carlos Montilla;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;9/01/2020 12:00;13/01/2020 14:27;5906;98,43;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";9/01/2020 12:00;9/01/2020 12:00;0;CUMPLE;10;INCUMPLE;enero;Móvil;INDRA_AmbNoProd_SLA8;NO
 2508448;Carlos Montilla;COMP;Alejandra;Vahos Osorio;Apl.General.Semilla9.ActualizacionAmbiente;9/01/2020 14:29;9/01/2020 17:12;162;2,70;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
@@ -235,7 +235,7 @@ Validar aplicación.";13/01/2020 15:20;13/01/2020 15:20;0;CUMPLE;10;CUMPLE;enero
 Nombre de Servicio: Entrega de plataforma a Operaciones
 Nombre de plataforma a entregar:Cisco ISE
 ";;;;CUMPLE;10;CUMPLE;enero;Fijo;Sin Definir;SI
-2513986;Pablo Paez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.GTC.Despliegue PPDN;14/01/2020 19:02;14/01/2020 19:04;1;0,02;Se ejecuta según lo solicitado en el documento adjunto y se anexan los logs ;14/01/2020 19:00;14/01/2020 20:00;60;CUMPLE;10;CUMPLE;enero;Fijo;#N/A;NO
+2513986;Pablo Paez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.GTC.Despliegue PPDN;14/01/2020 19:02;14/01/2020 19:04;1;0,02;"Se ejecuta según lo solicitado en el documento adjunto y se anexan los logs ";14/01/2020 19:00;14/01/2020 20:00;60;CUMPLE;10;CUMPLE;enero;Fijo;#N/A;NO
 2514053;Pablo Paez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.OSM.Despliegue PPDN;14/01/2020 19:11;14/01/2020 19:12;0;0,00;Se  ejecutar según lo solicitado en el documento adjunto.;14/01/2020 19:00;14/01/2020 20:00;60;CUMPLE;10;CUMPLE;enero;Fijo;#N/A;NO
 2514115;Pablo Paez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.GTC.Despliegue PPDN;14/01/2020 19:05;14/01/2020 19:09;3;0,05;Se ejecuta según lo solicitado en el documento adjunto.;14/01/2020 19:00;14/01/2020 20:00;60;CUMPLE;10;CUMPLE;enero;Fijo;#N/A;NO
 2514233;Carlos Montilla;COMP;Omaira;Cardona;Apl.General.Semilla9.ActualizacionAmbiente;14/01/2020 12:21;14/01/2020 15:42;201;3,35;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
@@ -269,7 +269,7 @@ Validar aplicación.";15/01/2020 17:16;15/01/2020 17:16;0;CUMPLE;10;CUMPLE;enero
 2517711;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;16/01/2020 9:10;16/01/2020 10:17;67;1,12;Se ejecuta segun lo solicitado en el documento adjunto.;16/01/2020 9:00;16/01/2020 19:00;600;CUMPLE;10;CUMPLE;enero;Fijo;#N/A;NO
 2517740;Carlos Montilla;COMP;Omaira;Cardona;Apl.General.Semilla9.ActualizacionAmbiente;16/01/2020 8:24;16/01/2020 9:39;75;1,25;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";16/01/2020 8:24;16/01/2020 8:24;0;CUMPLE;10;CUMPLE;enero;Móvil;#N/A;NO
-2518952;Pablo Paez;COMP;;Grupo Services Delivery;Cambios TIC Interno.OSM.Despliegue PPDN;16/01/2020 20:34;16/01/2020 21:24;50;0,83;Se realiza reinicio de la plataforma OSM ;;;;CUMPLE;10;CUMPLE;enero;Fijo;#N/A;NO
+2518952;Pablo Paez;COMP;;Grupo Services Delivery;Cambios TIC Interno.OSM.Despliegue PPDN;16/01/2020 20:34;16/01/2020 21:24;50;0,83;"Se realiza reinicio de la plataforma OSM ";;;;CUMPLE;10;CUMPLE;enero;Fijo;#N/A;NO
 2519671;Luis Suarez;COMP;Paola Andrea;Agudelo Urrea;Cambios TIC Interno.OSM.Despliegue PPDN;20/01/2020 15:28;20/01/2020 16:35;66;1,10;Se ejecuta segun lo solicitado en el documento adjunto.;;;;CUMPLE;10;CUMPLE;enero;Fijo;#N/A;NO
 2519796;Carlos Montilla;COMP;Stiven;Manco Valencia;Apl.General.Semilla9.ActualizacionAmbiente;17/01/2020 14:02;17/01/2020 14:19;16;0,27;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";17/01/2020 14:02;17/01/2020 14:02;0;CUMPLE;10;CUMPLE;enero;Móvil;#N/A;NO
@@ -391,7 +391,7 @@ Validar aplicación.";6/02/2020 9:12;6/02/2020 9:12;0;CUMPLE;10;CUMPLE;febrero;M
 2544109;Carlos Montilla;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;6/02/2020 9:19;6/02/2020 9:35;16;0,27;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";6/02/2020 9:19;6/02/2020 9:19;0;CUMPLE;10;CUMPLE;febrero;Móvil;#N/A;NO
 2544125;Edwin Chavez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Smallworld.Despliegue PPDN;6/02/2020 11:00;6/02/2020 11:22;22;0,37;Finaliza ejecución del paso, se solicita realizar validaciones.;6/02/2020 11:00;6/02/2020 12:00;60;CUMPLE;10;CUMPLE;febrero;Fijo;#N/A;NO
-2544200;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.MSS.Despliegue PPDN;6/02/2020 11:59;6/02/2020 16:46;287;4,78;Ejecutar segun lo solicitado en el documento adjunto. Esto OC fue para legalizar la solicitud no se realizo ejecución por parte de Delivery ;6/02/2020 11:00;6/02/2020 12:00;60;CUMPLE;10;INCUMPLE;febrero;Fijo;INDRA_AmbNoProd_SLA8;NO
+2544200;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.MSS.Despliegue PPDN;6/02/2020 11:59;6/02/2020 16:46;287;4,78;"Ejecutar segun lo solicitado en el documento adjunto. Esto OC fue para legalizar la solicitud no se realizo ejecución por parte de Delivery ";6/02/2020 11:00;6/02/2020 12:00;60;CUMPLE;10;INCUMPLE;febrero;Fijo;INDRA_AmbNoProd_SLA8;NO
 2544230;Carlos Montilla;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;6/02/2020 9:55;6/02/2020 10:12;16;0,27;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";6/02/2020 9:55;6/02/2020 9:55;0;CUMPLE;10;CUMPLE;febrero;Móvil;#N/A;NO
 2544299;Carlos Montilla;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;6/02/2020 10:18;6/02/2020 11:09;51;0,85;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
@@ -449,7 +449,7 @@ Se realiza la solicitud mencionada.";7/02/2020 16:33;7/02/2020 16:33;0;CUMPLE;10
 Se realiza la solicitud mencionada.";7/02/2020 16:37;7/02/2020 16:37;0;CUMPLE;10;CUMPLE;febrero;Móvil;#N/A;NO
 2546559;Laura Forero;COMP;Omaira;Cardona;Apl.General.Semilla9.ActualizacionAmbiente;7/02/2020 17:31;7/02/2020 18:00;28;0,47;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";7/02/2020 17:31;7/02/2020 17:31;0;CUMPLE;10;CUMPLE;febrero;Móvil;#N/A;NO
-2546585;Luis Suarez;COMP;Cuenta tecnica;Fabrica Accenture;Cambios TIC Interno.Siebel.Despliegue PPDN;10/02/2020 11:02;10/02/2020 11:34;31;0,52;Se ejecuta segun lo solicitado en el documento adjunto. Se realiza backup y actualización de producto solicitado ;10/02/2020 11:00;10/02/2020 13:00;120;CUMPLE;10;CUMPLE;febrero;Fijo;#N/A;NO
+2546585;Luis Suarez;COMP;Cuenta tecnica;Fabrica Accenture;Cambios TIC Interno.Siebel.Despliegue PPDN;10/02/2020 11:02;10/02/2020 11:34;31;0,52;"Se ejecuta segun lo solicitado en el documento adjunto. Se realiza backup y actualización de producto solicitado ";10/02/2020 11:00;10/02/2020 13:00;120;CUMPLE;10;CUMPLE;febrero;Fijo;#N/A;NO
 2546611;Laura Forero;COMP;Alejandra;Vahos Osorio;Apl.General.Semilla9.ActualizacionAmbiente;7/02/2020 19:57;7/02/2020 22:18;141;2,35;"Buen día,
 
 Se realiza la solicitud mencionada.";7/02/2020 21:00;7/02/2020 22:00;60;CUMPLE;10;CUMPLE;febrero;Móvil;#N/A;NO
@@ -639,7 +639,7 @@ Validar aplicación.";31/12/1969 19:00;31/12/1969 19:00;0;CUMPLE;10;CUMPLE;febre
 Validar aplicación.";31/12/1969 19:00;31/12/1969 19:00;0;CUMPLE;10;CUMPLE;febrero;Móvil;#N/A;NO
 2553506;David Rivera;REJ;Johan Stiven;Paez Bermudez;Delivery.Entrega de Plataforma/Aplicación a Operaciones;13/02/2020 14:52;22/04/2020 12:49;99237;1653,95;"Entrega de plataforma a Operaciones
 Nombre de plataforma a entregar: Blue Prism";;;;CUMPLE;10;CUMPLE;febrero;Fijo;Sin Definir;SI
-2554101;Ana Maria David;COMP;Gilberto;Ciro Botero;Delivery.Entrega de Plataforma/Aplicación a Operaciones;13/02/2020 17:10;19/02/2020 10:10;8219;136,98;Se recibe la información de Entrega de proceso Elite ;;;;CUMPLE;10;CUMPLE;febrero;Fijo;Sin Definir;SI
+2554101;Ana Maria David;COMP;Gilberto;Ciro Botero;Delivery.Entrega de Plataforma/Aplicación a Operaciones;13/02/2020 17:10;19/02/2020 10:10;8219;136,98;"Se recibe la información de Entrega de proceso Elite ";;;;CUMPLE;10;CUMPLE;febrero;Fijo;Sin Definir;SI
 2554155;Yerzon Carrion;COMP;Omaira;Cardona;Apl.General.Semilla9.ActualizacionAmbiente;13/02/2020 17:43;13/02/2020 21:59;255;4,25;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";31/12/1969 19:00;31/12/1969 19:00;0;CUMPLE;10;INCUMPLE;febrero;Móvil;INDRA_AmbNoProd_SLA8;NO
 2554189;Yerzon Carrion;COMP;Omaira;Cardona;Apl.General.Semilla9.ActualizacionAmbiente;13/02/2020 18:21;13/02/2020 18:52;31;0,52;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
@@ -986,7 +986,7 @@ Se realiza la solicitud mencionada.";5/03/2020 17:00;5/03/2020 17:00;0;CUMPLE;10
 2580431;Carlos Montilla;COMP;Stiven;Manco Valencia;Apl.Ambiente.Semilla.Actualizar.componente.Sophos;6/03/2020 8:53;6/03/2020 10:37;104;1,73;"Valida si la informacion enviada esta completa o cancela el cambio.
 Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";6/03/2020 9:38;6/03/2020 9:38;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
-2580759;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.Siebel.Despliegue PPDN;6/03/2020 13:02;6/03/2020 13:13;11;0,18;Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución ;6/03/2020 13:00;6/03/2020 13:20;20;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
+2580759;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.Siebel.Despliegue PPDN;6/03/2020 13:02;6/03/2020 13:13;11;0,18;"Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución ";6/03/2020 13:00;6/03/2020 13:20;20;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
 2580782;Yerzon Carrion;COMP;Elizabeth;Maldonado Malagon;Apl.Ambiente.Semilla.Actualizar.componente;6/03/2020 11:10;6/03/2020 11:17;6;0,10;"Valida si la informacion enviada esta completa o cancela el cambio.
 Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";6/03/2020 11:10;6/03/2020 11:10;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
@@ -1070,7 +1070,7 @@ Validar aplicación.";;;;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
 Validar aplicación.";;;;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
 2585318;Yerzon Carrion;COMP;Carlos;Montilla;Apl.General.Semilla9.ActualizacionAmbiente;10/03/2020 17:49;10/03/2020 17:50;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";;;;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
-2585740;Yonny Escobar;COMP;Durley Paulina;Gomez Builes;Delivery.Entrega de Plataforma/Aplicación a Operaciones;11/03/2020 8:58;24/03/2020 17:17;19219;320,32;*Entrega de plataforma SMALLWORLD ;;;;CUMPLE;10;CUMPLE;marzo;Fijo;Sin Definir;SI
+2585740;Yonny Escobar;COMP;Durley Paulina;Gomez Builes;Delivery.Entrega de Plataforma/Aplicación a Operaciones;11/03/2020 8:58;24/03/2020 17:17;19219;320,32;"*Entrega de plataforma SMALLWORLD ";;;;CUMPLE;10;CUMPLE;marzo;Fijo;Sin Definir;SI
 2585870;Carlos Montilla;COMP;Stiven;Manco Valencia;Apl.General.Semilla9.HomologacionAmbiente.Planchado;11/03/2020 11:11;11/03/2020 11:12;0;0,00;"Valida si la informacion enviada esta completa o cancela el cambio.
 Realizar la instalación del requerimiento.
 Validar aplicación.";11/03/2020 10:02;11/03/2020 10:02;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
@@ -1251,7 +1251,7 @@ Validar aplicación.";20/03/2020 10:06;20/03/2020 10:06;0;CUMPLE;10;CUMPLE;marzo
 2600211;Yerzon Carrion;COMP;Juan Daniel;Higuita Ceballos;Apl.General.Semilla9.HomologacionAmbiente.Planchado;20/03/2020 10:06;20/03/2020 10:17;10;0,17;"Valida si la informacion enviada esta completa o cancela el cambio.
 Realizar la instalación del requerimiento.
 Validar aplicación.";31/12/1969 19:00;31/12/1969 19:00;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
-2600271;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.OSM.Despliegue PPDN;20/03/2020 18:00;20/03/2020 20:17;137;2,28;Se ejecuta segun lo solicitado en el documento adjunto. Se realiza respaldo y actualización de archivos se ejecuta, los cartuchos pero se presenta falla en el cartucho NcaOsmOrquestacionComunes, anexo falla presentada durante el despliegue, se realiza rollback ;20/03/2020 18:00;20/03/2020 21:30;210;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
+2600271;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.OSM.Despliegue PPDN;20/03/2020 18:00;20/03/2020 20:17;137;2,28;"Se ejecuta segun lo solicitado en el documento adjunto. Se realiza respaldo y actualización de archivos se ejecuta, los cartuchos pero se presenta falla en el cartucho NcaOsmOrquestacionComunes, anexo falla presentada durante el despliegue, se realiza rollback ";20/03/2020 18:00;20/03/2020 21:30;210;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
 2600484;Laura Forero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;20/03/2020 11:03;20/03/2020 11:22;19;0,32;"Valida si la informacion enviada esta completa o cancela el cambio.
 Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";20/03/2020 11:09;20/03/2020 11:09;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
@@ -1305,7 +1305,7 @@ Se adjuntan los log's solicitados.";25/03/2020 8:45;25/03/2020 8:45;0;CUMPLE;10;
 2604151;Pablo Paez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;25/03/2020 11:53;25/03/2020 12:39;46;0,77;Ejecutar según lo solicitado en el documento adjunto.;25/03/2020 11:00;25/03/2020 12:00;60;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
 2604605;Daniel Talero;COMP;Alejandra;Vahos Osorio;Apl.General.Semilla11.ActualizacionAmbiente;25/03/2020 10:36;25/03/2020 12:20;103;1,72;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";25/03/2020 10:34;25/03/2020 10:34;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
-2604682;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;25/03/2020 15:00;25/03/2020 15:05;5;0,08;Se ejecuta según lo solicitado en el documento adjunto. Se activa el job solicitado se apagara a la hora solicitada ;25/03/2020 15:00;25/03/2020 17:00;120;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
+2604682;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;25/03/2020 15:00;25/03/2020 15:05;5;0,08;"Se ejecuta según lo solicitado en el documento adjunto. Se activa el job solicitado se apagara a la hora solicitada ";25/03/2020 15:00;25/03/2020 17:00;120;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
 2604784;Laura Forero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla7.HomologacionAmbiente.Planchado;25/03/2020 12:54;25/03/2020 13:03;9;0,15;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";25/03/2020 12:53;25/03/2020 12:53;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
 2604807;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.Ambiente.Semilla.Actualizar.componente;25/03/2020 13:27;25/03/2020 14:13;45;0,75;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
@@ -1327,17 +1327,17 @@ Se realiza la solicitud mencionada.";25/03/2020 16:14;25/03/2020 16:14;0;CUMPLE;
 Validar aplicación.""";25/03/2020 17:02;25/03/2020 17:02;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
 2605378;Laura Forero;CNCL;Johan Andrey;Escobar Garzon;Apl.General.Semilla11.ActualizacionAmbiente;25/03/2020 18:17;25/03/2020 18:17;0;0,00;"""Realizar el procedimiento de actualización de componente.
 Validar aplicación.""";25/03/2020 17:37;25/03/2020 17:37;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
-2605395;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.MSS.Despliegue PPDN;25/03/2020 21:07;25/03/2020 22:33;86;1,43;Ejecutar segun lo solicitado en el documento adjunto. Anexo evidencias de ejecución ;25/03/2020 20:30;25/03/2020 21:30;60;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
+2605395;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.MSS.Despliegue PPDN;25/03/2020 21:07;25/03/2020 22:33;86;1,43;"Ejecutar segun lo solicitado en el documento adjunto. Anexo evidencias de ejecución ";25/03/2020 20:30;25/03/2020 21:30;60;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
 2605409;Daniel Talero;COMP;Johan Andrey;Escobar Garzon;Apl.General.Semilla11.ActualizacionAmbiente;25/03/2020 18:09;25/03/2020 18:12;2;0,03;"""Realizar el procedimiento de actualización de componente.
 Validar aplicación.""";25/03/2020 17:55;25/03/2020 17:55;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
-2605456;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.Siebel.Despliegue PPDN;25/03/2020 21:04;25/03/2020 22:37;93;1,55;Se ejecutar segun lo solicitado en el documento adjunto. Anexo evidencias de ejecución ;25/03/2020 19:30;25/03/2020 21:30;120;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
+2605456;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.Siebel.Despliegue PPDN;25/03/2020 21:04;25/03/2020 22:37;93;1,55;"Se ejecutar segun lo solicitado en el documento adjunto. Anexo evidencias de ejecución ";25/03/2020 19:30;25/03/2020 21:30;120;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
 2605783;Yerzon Carrion;COMP;Juan Daniel;Higuita Ceballos;Apl.General.Semilla9.ActualizacionAmbiente;26/03/2020 10:15;26/03/2020 10:15;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";26/03/2020 10:14;26/03/2020 10:14;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
 2606012;Yerzon Carrion;COMP;Juan Daniel;Higuita Ceballos;Apl.General.Semilla9.ActualizacionAmbiente;26/03/2020 11:03;26/03/2020 11:04;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";26/03/2020 11:03;26/03/2020 11:03;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
 2606017;Yerzon Carrion;COMP;Alejandra;Vahos Osorio;Apl.General.Semilla9.ActualizacionAmbiente;26/03/2020 11:00;26/03/2020 11:01;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";26/03/2020 11:00;26/03/2020 11:00;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
-2606113;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;26/03/2020 14:30;26/03/2020 14:39;9;0,15;Se ejecuta segun lo solicitado en el documento adjunto. Anexo evidencia de configuración ;25/03/2020 14:30;25/03/2020 15:00;30;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
+2606113;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;26/03/2020 14:30;26/03/2020 14:39;9;0,15;"Se ejecuta segun lo solicitado en el documento adjunto. Anexo evidencia de configuración ";25/03/2020 14:30;25/03/2020 15:00;30;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
 2606189;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.Ambiente.Semilla.Actualizar.componente;26/03/2020 12:21;26/03/2020 13:18;57;0,95;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";26/03/2020 12:20;26/03/2020 12:20;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
 2606207;Luis Rivas;COMP;Johan Andrey;Escobar Garzon;Apl.General.Semilla11.ActualizacionAmbiente;26/03/2020 17:57;26/03/2020 18:01;4;0,07;"""Realizar el procedimiento de actualización de componente.
@@ -1404,7 +1404,7 @@ Validar aplicación.""";27/03/2020 13:45;27/03/2020 13:45;0;CUMPLE;10;CUMPLE;mar
 Validar aplicación.";27/03/2020 19:56;27/03/2020 19:56;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
 2608044;Luis Rivas;COMP;Alejandra;Vahos Osorio;Apl.General.Semilla9.ActualizacionAmbiente;27/03/2020 19:21;27/03/2020 19:22;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";27/03/2020 19:19;27/03/2020 19:19;0;CUMPLE;10;CUMPLE;marzo;Móvil;#N/A;NO
-2608045;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.MSS.Despliegue PPDN;31/03/2020 7:00;31/03/2020 7:10;9;0,15;Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución de scripts, por favor validar error presentado en el primer script se realiza rollback y no se continua con la ejecución ;30/03/2020 7:00;30/03/2020 9:00;120;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
+2608045;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.MSS.Despliegue PPDN;31/03/2020 7:00;31/03/2020 7:10;9;0,15;"Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución de scripts, por favor validar error presentado en el primer script se realiza rollback y no se continua con la ejecución ";30/03/2020 7:00;30/03/2020 9:00;120;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
 2608668;Yerzon Carrion;COMP;Nicolas;Rios Rodriguez;Cambios TIC Interno.PortalesIntranet.Despliegue UAT;30/03/2020 8:23;30/03/2020 8:24;0;0,00;"*Portales*
 Ejecutar segun lo solicitado en el documento adjunto.
 Asignar tarea 30 a personal solicitante y enviar correo informando ejecución de la actividad.";;;;CUMPLE;10;CUMPLE;marzo;Fijo;#N/A;NO
@@ -1455,7 +1455,7 @@ Se realiza validación del datasource y se evidencia que los datos suministrados
 URL: jdbc:weblogic:sqlserver://10.100.77.56:1433;allowPortWithNamedInstance=true";;;;CUMPLE;10;CUMPLE;abril;Móvil;#N/A;NO
 2613558;Pablo Paez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.MSS.Despliegue PPDN;2/04/2020 14:29;2/04/2020 14:44;15;0,25;Ejecutar segun lo solicitado en el documento adjunto.;2/04/2020 14:30;2/04/2020 16:30;120;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
 2613567;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;2/04/2020 11:00;2/04/2020 11:24;24;0,40;Se ejecuta segun lo solicitado en el documento adjunto. Se realizan las configuraciones solicitadas y anexo log de ejecución de script;2/04/2020 11:00;2/04/2020 12:10;70;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
-2613618;Luis Suarez;COMP;Cuenta tecnica;Fabrica Accenture;Cambios TIC Interno.Siebel.Despliegue PPDN;2/04/2020 12:00;2/04/2020 12:22;22;0,37;Se ejecuta segun lo solicitado en el documento adjunto. Se realiza cambio de SFF sin inconvenientes ;2/04/2020 12:00;2/04/2020 13:00;60;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
+2613618;Luis Suarez;COMP;Cuenta tecnica;Fabrica Accenture;Cambios TIC Interno.Siebel.Despliegue PPDN;2/04/2020 12:00;2/04/2020 12:22;22;0,37;"Se ejecuta segun lo solicitado en el documento adjunto. Se realiza cambio de SFF sin inconvenientes ";2/04/2020 12:00;2/04/2020 13:00;60;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
 2613760;Luis Rivas;COMP;Cuenta tecnica;Fabrica Accenture;Apl.General.Semilla9.ActualizacionAmbiente;2/04/2020 14:56;2/04/2020 14:57;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";2/04/2020 14:54;2/04/2020 14:54;0;CUMPLE;10;CUMPLE;abril;Móvil;#N/A;NO
 2613778;Paola Agudelo;COMP;Cuenta tecnica;Fabrica Accenture;Cambios TIC Interno.MSS.Despliegue PPDN;3/04/2020 14:32;3/04/2020 16:58;145;2,42;Se realiza lo ejecutado en el documento adjunto.;3/04/2020 14:30;3/04/2020 20:30;360;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
@@ -1466,7 +1466,7 @@ Asignar tarea 30 a personal solicitante y enviar correo informando ejecución de
 2614106;Laura Forero;COMP;Cuenta tecnica;Fabrica Accenture;Apl.General.Semilla9.ActualizacionAmbiente;2/04/2020 21:42;2/04/2020 21:43;0;0,00;"Buen día,
 
 Se realiza la solicitud mencionada.";2/04/2020 16:50;2/04/2020 16:50;0;CUMPLE;10;CUMPLE;abril;Móvil;#N/A;NO
-2614125;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;3/04/2020 8:00;3/04/2020 8:36;35;0,58;Se ejecuta segun lo solicitado en el documento adjunto. Se configura el job solicitado, anexo log de ejecución de script ;3/04/2020 8:00;3/04/2020 9:00;60;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
+2614125;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;3/04/2020 8:00;3/04/2020 8:36;35;0,58;"Se ejecuta segun lo solicitado en el documento adjunto. Se configura el job solicitado, anexo log de ejecución de script ";3/04/2020 8:00;3/04/2020 9:00;60;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
 2614150;;CNCL;Cuenta tecnica;Fabrica Accenture;Cambios TIC Interno.Siebel.Despliegue PPDN;2/04/2020 16:50;2/04/2020 16:50;0;0,00;"* Siebel PPDN *
 Ejecutar segun lo solicitado en el documento adjunto.
 Enviar correo informando ejecución de la actividad.";2/04/2020 17:00;2/04/2020 18:00;60;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
@@ -1542,7 +1542,7 @@ Validar aplicación.";;;;CUMPLE;10;CUMPLE;abril;Móvil;#N/A;NO
 2617995;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;7/04/2020 11:26;7/04/2020 11:44;17;0,28;Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución de scripts;7/04/2020 11:00;7/04/2020 12:00;60;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
 2617996;Laura Forero;COMP;Carlos;Montilla;Apl.General.Semilla10.ActualizacionAmbiente;7/04/2020 10:42;7/04/2020 11:35;52;0,87;"""Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;abril;Móvil;#N/A;NO
-2618025;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;7/04/2020 12:00;7/04/2020 13:06;65;1,08;Se ejecuta segun lo solicitado en el documento adjunto. Se realiza cambio de SRF y las configuraciones solicitadas ;7/04/2020 0:00;7/04/2020 1:30;90;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
+2618025;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;7/04/2020 12:00;7/04/2020 13:06;65;1,08;"Se ejecuta segun lo solicitado en el documento adjunto. Se realiza cambio de SRF y las configuraciones solicitadas ";7/04/2020 0:00;7/04/2020 1:30;90;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
 2618027;Laura Forero;COMP;Carlos;Montilla;Apl.General.Semilla10.ActualizacionAmbiente;7/04/2020 10:42;7/04/2020 11:35;53;0,88;"""Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;abril;Móvil;#N/A;NO
 2618038;Luis Rivas;COMP;Carlos;Montilla;Apl.General.Semilla5.ActualizacionAmbiente;7/04/2020 13:43;7/04/2020 13:44;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
@@ -1624,8 +1624,8 @@ Se adjunta los archivos mencionados. ";;;;CUMPLE;10;CUMPLE;abril;Móvil;#N/A;NO
 2621540;Luis Suarez;CNCL;Cuenta tecnica;Fabrica Accenture;Cambios TIC Interno.Siebel.Despliegue PPDN;13/05/2020 14:11;13/05/2020 14:11;0;0,00;"* Siebel PPDN *
 Ejecutar segun lo solicitado en el documento adjunto.
 Enviar correo informando ejecución de la actividad.";13/04/2020 16:30;13/04/2020 19:30;180;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
-2621579;Luis Suarez;COMP;Luis Esteban;Guerra Cardona;Cambios TIC Interno.OSM.Despliegue PPDN;13/04/2020 15:59;13/04/2020 20:06;246;4,10;Se ejecuta segun lo solicitado en el documento adjunto. Se realiza reinicio de la plataforma todo queda ok luego del reinicio ;13/04/2020 17:00;13/04/2020 17:30;30;CUMPLE;10;INCUMPLE;abril;Fijo;INDRA_AmbNoProd_SLA8;NO
-2621611;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;13/04/2020 16:33;13/04/2020 16:48;14;0,23;Se ejecuta segun lo solicitado en el documento adjunto. Se activan los log de los WF solicitados ;13/04/2020 16:30;13/04/2020 16:45;15;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
+2621579;Luis Suarez;COMP;Luis Esteban;Guerra Cardona;Cambios TIC Interno.OSM.Despliegue PPDN;13/04/2020 15:59;13/04/2020 20:06;246;4,10;"Se ejecuta segun lo solicitado en el documento adjunto. Se realiza reinicio de la plataforma todo queda ok luego del reinicio ";13/04/2020 17:00;13/04/2020 17:30;30;CUMPLE;10;INCUMPLE;abril;Fijo;INDRA_AmbNoProd_SLA8;NO
+2621611;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;13/04/2020 16:33;13/04/2020 16:48;14;0,23;"Se ejecuta segun lo solicitado en el documento adjunto. Se activan los log de los WF solicitados ";13/04/2020 16:30;13/04/2020 16:45;15;CUMPLE;10;CUMPLE;abril;Fijo;#N/A;NO
 2621901;Daniel Talero;CNCL;Luis;Mesa;Cambios TIC Interno.PortalesIntranet.Despliegue UAT;13/04/2020 17:29;21/04/2020 12:34;11224;187,07;"Valida si la informacion enviada esta completa o cancela el cambio.
 Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";13/04/2020 17:17;13/04/2020 17:17;0;CUMPLE;10;INCUMPLE;abril;Fijo;INDRA_AmbNoProd_SLA8;NO
@@ -1997,8 +1997,8 @@ Enviar correo informando ejecución de la actividad.";;;;CUMPLE;10;CUMPLE;abril;
 2639823;Laura Forero;COMP;Alejandra;Vahos Osorio;Apl.General.Semilla9.ActualizacionAmbiente;4/05/2020 9:01;4/05/2020 9:22;21;0,35;"Buen día,
 
 Se realiza la modificación mencionada. ";;;;CUMPLE;10;CUMPLE;mayo;Móvil;#N/A;NO
-2639992;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.OSM.Despliegue PPDN;4/05/2020 11:31;4/05/2020 11:51;20;0,33;Se ejecuta segun lo solicitado en el documento adjunto. Se realiza respaldo y actualización de archivos ;4/05/2020 11:30;4/05/2020 11:46;16;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
-2640624;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.OSM.Despliegue PPDN;5/05/2020 12:04;5/05/2020 12:37;33;0,55;Se ejecuta segun lo solicitado en el documento adjunto. Se realiza respaldo y actualización de archivo ;5/05/2020 12:00;5/05/2020 14:00;120;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
+2639992;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.OSM.Despliegue PPDN;4/05/2020 11:31;4/05/2020 11:51;20;0,33;"Se ejecuta segun lo solicitado en el documento adjunto. Se realiza respaldo y actualización de archivos ";4/05/2020 11:30;4/05/2020 11:46;16;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
+2640624;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.OSM.Despliegue PPDN;5/05/2020 12:04;5/05/2020 12:37;33;0,55;"Se ejecuta segun lo solicitado en el documento adjunto. Se realiza respaldo y actualización de archivo ";5/05/2020 12:00;5/05/2020 14:00;120;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
 2640752;Laura Forero;COMP;Alejandra Paola;Rubio Casallas;Apl.General.Semilla7.ActualizacionAmbiente;5/05/2020 9:10;5/05/2020 11:15;142;2,37;"Buen día,
 Se realiza la solicitud mencionada con los siguientes comentarios: 
 La instalación se genero con acompañamiento del encargado Carpineri, Jesus Maria con el cual Se deshabiliaron los dblink ya que estaban configurados los de produccion y en integracion no se encuentran. Adicional se tuvo que comentariar una tabla del mismo procedimiento ya que invocaba el mismo dblink. 
@@ -2167,7 +2167,7 @@ Ejecutar segun lo solicitado en el documento adjunto.
 Enviar correo informando ejecución de la actividad.";18/05/2020 12:00;18/05/2020 14:00;120;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
 2657375;Yerzon Carrion;COMP;Alejandra;Vahos Osorio;Apl.General.Semilla9.ActualizacionAmbiente;18/05/2020 16:52;18/05/2020 16:53;1;0,02;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";;;;CUMPLE;10;CUMPLE;mayo;Móvil;#N/A;NO
-2657533;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.Siebel.Despliegue PPDN;18/05/2020 16:01;18/05/2020 16:11;10;0,17;Se ejecuta segun lo solicitado en el documento adjunto. Se actualiza WF solicitado ;18/05/2020 16:00;18/05/2020 16:10;10;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
+2657533;Luis Suarez;COMP;Ruben Dario;Vergara Florez;Cambios TIC Interno.Siebel.Despliegue PPDN;18/05/2020 16:01;18/05/2020 16:11;10;0,17;"Se ejecuta segun lo solicitado en el documento adjunto. Se actualiza WF solicitado ";18/05/2020 16:00;18/05/2020 16:10;10;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
 2657621;Daniel Talero;COMP;Luis;Mesa;Cambios TIC Interno.PortalesIntranet.Despliegue UAT;18/05/2020 16:58;18/05/2020 17:00;1;0,02;"*Portales*
 Ejecutar segun lo solicitado en el documento adjunto.
 Asignar tarea 30 a personal solicitante y enviar correo informando ejecución de la actividad.";;;;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
@@ -2237,7 +2237,7 @@ Se realiza cambio en las propiedades según el  manual de instalación, se reini
 2661908;Daniel Talero;COMP;Luis;Mesa;Cambios TIC Interno.PortalesIntranet.Despliegue UAT;21/05/2020 15:05;21/05/2020 15:15;10;0,17;"*Portales*
 Ejecutar segun lo solicitado en el documento adjunto.
 Asignar tarea 30 a personal solicitante y enviar correo informando ejecución de la actividad.";;;;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
-2662104;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;21/05/2020 15:59;21/05/2020 16:05;6;0,10;Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución ;21/05/2020 15:50;21/05/2020 16:10;20;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
+2662104;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;21/05/2020 15:59;21/05/2020 16:05;6;0,10;"Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución ";21/05/2020 15:50;21/05/2020 16:10;20;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
 2662232;Daniel Talero;SKIP;Stiven;Manco Valencia;Apl.General.Semilla7.ActualizacionAmbiente;21/05/2020 17:16;21/05/2020 17:17;1;0,02;Se realiza ejecución de la shell la cual genera error , se adjunta imagen del error.;;;;CUMPLE;10;CUMPLE;mayo;Móvil;#N/A;NO
 2662759;Pablo Paez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.MSS.Despliegue PPDN;22/05/2020 8:03;22/05/2020 8:39;36;0,60;"Ejecutar según lo solicitado en el documento adjunto.
 Durante al ejecución se presenta un error y se anexan los logs de error";22/05/2020 8:00;22/05/2020 9:10;70;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
@@ -2334,7 +2334,7 @@ Validar aplicación.""";27/05/2020 18:52;27/05/2020 18:52;0;CUMPLE;10;CUMPLE;may
 2668088;Laura Forero;COMP;Jaime Alberto;Gomez Ruiz;Apl.General.Semilla10.ActualizacionAmbiente;28/05/2020 11:41;28/05/2020 13:30;165;2,75;"Buen día,
 
 Se realiza el apagado indicado del ambiente de semilla 10.";;;;CUMPLE;10;CUMPLE;mayo;Móvil;#N/A;NO
-2668141;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;28/05/2020 11:00;28/05/2020 13:04;124;2,07;Se ejecutar segun lo solicitado en el documento adjunto. Se ejecuta los scripts solicitados, anexo logs de ejecución ;28/05/2020 11:00;28/05/2020 12:30;90;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
+2668141;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;28/05/2020 11:00;28/05/2020 13:04;124;2,07;"Se ejecutar segun lo solicitado en el documento adjunto. Se ejecuta los scripts solicitados, anexo logs de ejecución ";28/05/2020 11:00;28/05/2020 12:30;90;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
 2668635;Yerzon Carrion;COMP;Jaime Alberto;Gomez Ruiz;Apl.General.Semilla11.ActualizacionAmbiente;28/05/2020 14:18;28/05/2020 14:21;2;0,03;"""Realizar el procedimiento de actualización de componente.
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;mayo;Móvil;#N/A;NO
 2668657;Luis Suarez;COMP;Jorge Eduardo;Arias Cardona;Cambios TIC Interno.MSS.Despliegue PPDN;29/05/2020 7:00;29/05/2020 7:06;5;0,08;Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución de scripts;29/05/2020 7:00;29/05/2020 9:00;120;CUMPLE;10;CUMPLE;mayo;Fijo;#N/A;NO
@@ -2399,7 +2399,7 @@ Validar aplicación.""";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2671872;Yerzon Carrion;COMP;Johan Andrey;Escobar Garzon;Apl.General.Semilla7.ActualizacionAmbiente;1/06/2020 14:54;1/06/2020 14:55;0;0,00;"""Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2672053;;CNCL;Santiago;Cardona Quintero;Cambios TIC Interno.MSS.Despliegue PPDN;8/06/2020 9:49;8/06/2020 9:49;0;0,00;Ejecutar segun lo solicitado en el documento adjunto.;2/06/2020 9:00;2/06/2020 17:00;480;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
-2672078;Luis Suarez;COMP;Diego Fernando;Quiroz Hernandez;Cambios TIC Interno.Actualizacion Georreferenciador UAT;2/06/2020 9:36;2/06/2020 9:49;13;0,22;Se ejecuta según documento adjunto. Se realiza respaldo y actualización de archivos solicitados ;;;;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
+2672078;Luis Suarez;COMP;Diego Fernando;Quiroz Hernandez;Cambios TIC Interno.Actualizacion Georreferenciador UAT;2/06/2020 9:36;2/06/2020 9:49;13;0,22;"Se ejecuta según documento adjunto. Se realiza respaldo y actualización de archivos solicitados ";;;;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
 2672188;;CNCL;Argiro;Puerta Restrepo;Cambios TIC Interno.OSM.Despliegue PPDN;2/06/2020 10:50;2/06/2020 10:50;0;0,00;"*OSM*
 Ejecutar segun lo solicitado en el documento adjunto.
 Asignar tarea 30 a personal solicitante y enviar correo informando ejecución de la actividad.";2/06/2020 17:50;2/06/2020 22:00;250;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
@@ -2501,7 +2501,7 @@ Validar aplicación.""";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2679650;Laura Forero;COMP;Karen Gizell;Perez Parrado;Apl.General.Semilla7.ActualizacionAmbiente;8/06/2020 14:20;8/06/2020 14:22;2;0,03;"Buen día,
 
 Se realiza el corrimiento de ciclo solicitado y se adjunta la respectiva evidencia. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
-2679680;Luis Suarez;COMP;Roberto Carlos;Castaneda Yepes;Cambios TIC Interno.Siebel.Despliegue PPDN;8/06/2020 15:00;8/06/2020 15:53;53;0,88;Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución de scripts y se realizan las configuraciones solicitadas, el cambio de SRF se desplego sin inconvenientes ;;;;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
+2679680;Luis Suarez;COMP;Roberto Carlos;Castaneda Yepes;Cambios TIC Interno.Siebel.Despliegue PPDN;8/06/2020 15:00;8/06/2020 15:53;53;0,88;"Se ejecuta segun lo solicitado en el documento adjunto. Anexo log de ejecución de scripts y se realizan las configuraciones solicitadas, el cambio de SRF se desplego sin inconvenientes ";;;;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
 2679921;Laura Forero;COMP;Karen Gizell;Perez Parrado;Apl.General.Semilla7.ActualizacionAmbiente;8/06/2020 14:56;8/06/2020 14:59;3;0,05;"Buen día,
 
 Se realiza facturación de la cuenta mencionada y se adjunta evidencia.";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
@@ -2518,7 +2518,7 @@ Validar aplicación.""";9/06/2020 8:35;9/06/2020 8:35;0;CUMPLE;10;CUMPLE;junio;M
 Ejecutar segun lo solicitado en el documento adjunto.
 Enviar correo informando ejecución de la actividad.";9/06/2020 11:00;9/06/2020 11:20;20;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
 2681229;Laura Forero;COMP;Juan David;Botero Rodas;Apl.General.Semilla8.ActualizacionAmbiente;9/06/2020 11:45;9/06/2020 11:45;0;0,00;Validar información de solicitud;;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
-2681236;Laura Forero;COMP;Johan Andrey;Escobar Garzon;Apl.General.Semilla7.ActualizacionAmbiente;9/06/2020 11:08;9/06/2020 11:09;0;0,00;Se realiza ejecución mencionada. ;;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
+2681236;Laura Forero;COMP;Johan Andrey;Escobar Garzon;Apl.General.Semilla7.ActualizacionAmbiente;9/06/2020 11:08;9/06/2020 11:09;0;0,00;"Se realiza ejecución mencionada. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2681242;Luis Suarez;COMP;Roberto Carlos;Castaneda Yepes;Cambios TIC Interno.Siebel.Despliegue PPDN;9/06/2020 11:42;9/06/2020 16:00;258;4,30;Se ejecuta segun lo solicitado en el documento adjunto.;;;;CUMPLE;10;INCUMPLE;junio;Fijo;INDRA_AmbNoProd_SLA8;NO
 2681423;Yerzon Carrion;COMP;Karen Gizell;Perez Parrado;Apl.General.Semilla7.ActualizacionAmbiente;9/06/2020 12:13;9/06/2020 12:15;1;0,02;"""Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
@@ -2539,7 +2539,7 @@ Validar aplicación.""";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2683512;Laura Forero;COMP;Karen Gizell;Perez Parrado;Apl.General.Semilla7.ActualizacionAmbiente;10/06/2020 16:53;10/06/2020 17:10;16;0,27;"Buen día,
 
 Se realiza las ejecuciones solicitadas y se adjunta la respectiva salida. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
-2683526;Daniel Talero;COMP;Johjan Alexis;Osorio Montoya;Apl.General.Semilla7.ActualizacionAmbiente;10/06/2020 16:35;10/06/2020 16:36;0;0,00;Se ejecuta la shell generarFACTFile_new.sh, en BRM semilla 7 en la ruta solicitada, el proceso de ejecución finaliza de manera correcta, se adjuntan los archivo generados. ;;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
+2683526;Daniel Talero;COMP;Johjan Alexis;Osorio Montoya;Apl.General.Semilla7.ActualizacionAmbiente;10/06/2020 16:35;10/06/2020 16:36;0;0,00;"Se ejecuta la shell generarFACTFile_new.sh, en BRM semilla 7 en la ruta solicitada, el proceso de ejecución finaliza de manera correcta, se adjuntan los archivo generados. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2683531;Laura Forero;COMP;Johjan Alexis;Osorio Montoya;Apl.General.Semilla7.ActualizacionAmbiente;10/06/2020 16:37;10/06/2020 16:40;3;0,05;"Buen día,
 
 Se realiza la ejecución mencionada y se adjunta la respectiva evidencia. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
@@ -2606,7 +2606,7 @@ Se realiza el reinicio mencionado para semilla 7. ";;;;CUMPLE;10;CUMPLE;junio;M�
 2687185;Laura Forero;COMP;Johan Andrey;Escobar Garzon;Apl.General.Semilla7.ActualizacionAmbiente;16/06/2020 8:29;16/06/2020 8:30;0;0,00;"Buen día,
 
 Se realiza ejecución de la shell solicitada y se adjunta la evidencia de la ejecución. ";16/06/2020 7:38;16/06/2020 7:38;0;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
-2688262;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.MSS.Despliegue PPDN;16/06/2020 16:31;16/06/2020 19:04;152;2,53;Se ejecuta segun lo solicitado en el documento adjunto. Se realiza despliegue de inventario.ear no se presentan inconvenientes durante la ejecución ;16/06/2020 16:30;16/06/2020 22:30;360;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
+2688262;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.MSS.Despliegue PPDN;16/06/2020 16:31;16/06/2020 19:04;152;2,53;"Se ejecuta segun lo solicitado en el documento adjunto. Se realiza despliegue de inventario.ear no se presentan inconvenientes durante la ejecución ";16/06/2020 16:30;16/06/2020 22:30;360;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
 2688489;Laura Forero;COMP;Karen Gizell;Perez Parrado;Apl.General.Semilla7.ActualizacionAmbiente;16/06/2020 16:14;16/06/2020 16:18;4;0,07;"Buen día,
 
 Se realiza la facturación de las cuentas mencionadas y se adjunta la respectiva evidencia. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
@@ -2621,7 +2621,7 @@ Se realiza la validación y se evidencia que la librería se encuentra instalada
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2689377;Luis Suarez;COMP;Argiro;Puerta Restrepo;Cambios TIC Interno.GTC.Despliegue PPDN;17/06/2020 18:00;17/06/2020 19:21;81;1,35;Se ejecuta segun lo solicitado en el documento adjunto. Se realiza respaldo y actualización de archivos no se presentan inconvenientes y los servicios quedan operativos.;17/06/2020 17:00;17/06/2020 19:40;160;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
 2689797;Laura Forero;COMP;Johan Andrey;Escobar Garzon;Apl.General.Semilla8.ActualizacionAmbiente;17/06/2020 12:14;17/06/2020 12:14;0;0,00;Validar información de solicitud;17/06/2020 11:52;17/06/2020 11:52;0;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
-2689807;Daniel Talero;COMP;Edwin Wilfredo;Chia Plata;Apl.General.Semilla7.ActualizacionAmbiente;17/06/2020 14:54;17/06/2020 15:13;19;0,32;Se aplica el rollback de la OC 2685611, aplicando su respectivo reinicio, se valida disponibilidad del ambiente ;;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
+2689807;Daniel Talero;COMP;Edwin Wilfredo;Chia Plata;Apl.General.Semilla7.ActualizacionAmbiente;17/06/2020 14:54;17/06/2020 15:13;19;0,32;"Se aplica el rollback de la OC 2685611, aplicando su respectivo reinicio, se valida disponibilidad del ambiente ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2689892;Laura Forero;COMP;Cristhian David;Cendales Vargas;Apl.General.Semilla9.ActualizacionAmbiente;17/06/2020 15:24;17/06/2020 15:54;30;0,50;"Buen día,
 
 Se realiza la instalación mencionada y adjunta la respectiva evidencia. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
@@ -2659,14 +2659,14 @@ Se anexan evidencias. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2692225;Laura Forero;COMP;Karen Gizell;Perez Parrado;Apl.General.Semilla7.ActualizacionAmbiente;18/06/2020 18:13;18/06/2020 18:15;2;0,03;"Buen día,
 
 Se realiza la ejecución mencionada en base de datos y se adjunta la respectiva evidencia. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
-2692589;Pablo Paez;COMP;Luis Fernando;Quintero Zapata;Cambios TIC Interno.MSS.Despliegue PPDN;19/06/2020 9:07;19/06/2020 9:28;21;0,35;Ejecutar según lo solicitado en el documento adjunto y se anexan las evidencias ;19/06/2020 9:00;19/06/2020 9:15;15;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
+2692589;Pablo Paez;COMP;Luis Fernando;Quintero Zapata;Cambios TIC Interno.MSS.Despliegue PPDN;19/06/2020 9:07;19/06/2020 9:28;21;0,35;"Ejecutar según lo solicitado en el documento adjunto y se anexan las evidencias ";19/06/2020 9:00;19/06/2020 9:15;15;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
 2692791;Laura Forero;COMP;Karen Gizell;Perez Parrado;Apl.General.Semilla7.ActualizacionAmbiente;19/06/2020 10:07;19/06/2020 10:09;1;0,02;"Buen día,
 
 Se realiza la regeneración de la factura mencionada y se adjunta la respectiva salida. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2692811;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;19/06/2020 11:28;19/06/2020 11:28;0;0,00;Se ejecutan cada una de las tramas solicitadas en el mismo orden de la descripción, tras ejecución de cada una de ellas no se evidencian fallas.;;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2692901;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;19/06/2020 11:33;19/06/2020 11:34;0;0,00;Se ejecutan cada una de las tramas solcitadas en el mismo orden de la descripción, tras ejecución de cada una de ellas no se evidencian fallas.;;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2693026;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;19/06/2020 12:17;19/06/2020 12:18;0;0,00;Se ejecutan cada una de las tramas solicitadas en el mismo orden de la descripción, tras ejecución de cada una de ellas no se evidencian fallas.;;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
-2693178;Luis Suarez;COMP;Roberto Carlos;Castaneda Yepes;Cambios TIC Interno.Siebel.Despliegue PPDN;19/06/2020 16:08;19/06/2020 17:46;98;1,63;Se ejecuta segun lo solicitado en el documento adjunto. ;;;;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
+2693178;Luis Suarez;COMP;Roberto Carlos;Castaneda Yepes;Cambios TIC Interno.Siebel.Despliegue PPDN;19/06/2020 16:08;19/06/2020 17:46;98;1,63;"Se ejecuta segun lo solicitado en el documento adjunto. ";;;;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
 2693191;Yerzon Carrion;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;19/06/2020 13:44;19/06/2020 13:44;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2693203;Yerzon Carrion;COMP;Johjan Alexis;Osorio Montoya;Apl.General.Semilla7.ActualizacionAmbiente;19/06/2020 14:20;19/06/2020 14:21;1;0,02;"""Realizar el procedimiento de actualizacion de componente.
@@ -2847,8 +2847,8 @@ Validar aplicación.""";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 ";;;;CUMPLE;10;CUMPLE;junio;Fijo;Sin Definir;SI
 2700026;Daniel Talero;COMP;Cuenta tecnica;Fabrica Accenture;Apl.General.Semilla10.ActualizacionAmbiente;26/06/2020 14:51;26/06/2020 14:54;2;0,03;"Se ejecuta script en la base de datos del activador del ambiente, durante la ejecución no se evidencian errores.
 Se adjunta log de ejecución.";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
-2700293;Daniel Talero;COMP;Alicia;Avendano Agudelo;Apl.General.Semilla9.ActualizacionAmbiente;26/06/2020 16:26;26/06/2020 16:27;1;0,02;Se realiza ejecución de las tramas solicitadas durante la ejecución no se evidencian fallos. ;;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
-2700294;Daniel Talero;COMP;Alicia;Avendano Agudelo;Apl.General.Semilla9.ActualizacionAmbiente;26/06/2020 17:04;26/06/2020 17:05;0;0,00;Se realiza ejecución de las tramas solicitadas durante la ejecución no se evidencian fallos. ;;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
+2700293;Daniel Talero;COMP;Alicia;Avendano Agudelo;Apl.General.Semilla9.ActualizacionAmbiente;26/06/2020 16:26;26/06/2020 16:27;1;0,02;"Se realiza ejecución de las tramas solicitadas durante la ejecución no se evidencian fallos. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
+2700294;Daniel Talero;COMP;Alicia;Avendano Agudelo;Apl.General.Semilla9.ActualizacionAmbiente;26/06/2020 17:04;26/06/2020 17:05;0;0,00;"Se realiza ejecución de las tramas solicitadas durante la ejecución no se evidencian fallos. ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2700321;Laura Forero;COMP;Carlos;Montilla;Apl.General.Semilla1.ActualizacionAmbiente;26/06/2020 17:05;26/06/2020 17:05;0;0,00;"Buen día,
 
 Se realiza actualización de ambiente de acuerdo al archivo enviado por el CAB, con corte al 10 de Junio del 2020";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
@@ -2909,7 +2909,7 @@ Validar aplicación.";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2701935;Ana Maria David;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;30/06/2020 14:04;30/06/2020 14:04;0;0,00;"Se dejan las responsabilidades indicadas al usuario especifico, validar* Siebel PPDN *
 Ejecutar segun lo solicitado en el documento adjunto.
 Enviar correo informando ejecución de la actividad.";;;;CUMPLE;10;CUMPLE;junio;Fijo;#N/A;NO
-2702126;Daniel Talero;COMP;Cuenta tecnica;Fabrica Accenture;Apl.General.Semilla9.ActualizacionAmbiente;30/06/2020 17:03;30/06/2020 17:06;2;0,03;Se realiza ejecución de script en la base de datos de activador, proporcionado en los artefactos, no se evidencian fallos de ejecución, se adjunta log de la ejecución ;;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
+2702126;Daniel Talero;COMP;Cuenta tecnica;Fabrica Accenture;Apl.General.Semilla9.ActualizacionAmbiente;30/06/2020 17:03;30/06/2020 17:06;2;0,03;"Se realiza ejecución de script en la base de datos de activador, proporcionado en los artefactos, no se evidencian fallos de ejecución, se adjunta log de la ejecución ";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2702261;Yerzon Carrion;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;30/06/2020 15:51;30/06/2020 15:52;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";;;;CUMPLE;10;CUMPLE;junio;Móvil;#N/A;NO
 2702269;Yerzon Carrion;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;30/06/2020 15:54;30/06/2020 15:54;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
@@ -2968,7 +2968,7 @@ Validar aplicación.";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2706232;Daniel Talero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;3/07/2020 10:28;3/07/2020 10:29;1;0,02;Se generan archivos xslt de las cuentas solicitadas, durante el proceso no se evidencian fallos.;3/07/2020 9:13;3/07/2020 9:13;0;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2706314;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;3/07/2020 10:41;3/07/2020 10:41;0;0,00;Se ejecuta batch BatchAvengersDiscount.sh , durante el proceso no se evidencia fallas durante la ejecución.;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2706315;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;3/07/2020 10:55;3/07/2020 10:58;3;0,05;Se ejecutan las shells solicitadas, durante el proceso no se evidencia fallas, se adjuntan los archivos generados.;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
-2706395;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;3/07/2020 11:04;3/07/2020 11:05;1;0,02;Se realiza ejecución de la shell de portabilidad en el ambiente semilla solicitado, no se evidencian fallas durante el proceso, se adjunta evidencia. ;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
+2706395;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;3/07/2020 11:04;3/07/2020 11:05;1;0,02;"Se realiza ejecución de la shell de portabilidad en el ambiente semilla solicitado, no se evidencian fallas durante el proceso, se adjunta evidencia. ";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2706540;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;3/07/2020 13:03;3/07/2020 13:03;0;0,00;Se ejecutan las shells solcitadas  , durante el proceso no se evidencia fallas, se adjuntan los archivos generados..;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2706550;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;3/07/2020 13:06;3/07/2020 13:07;0;0,00;"Se realiza el cambio de ciclo solicitado.
 mode 2  1722747614  Sun Aug  4 00:00:14 2024
@@ -2980,7 +2980,7 @@ Validar aplicación.";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2706570;Yerzon Carrion;COMP;Ronald;Munoz Mejia;Apl.General.Semilla7.ActualizacionAmbiente;3/07/2020 14:31;3/07/2020 14:31;0;0,00;"""Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2706576;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;3/07/2020 13:29;3/07/2020 13:31;1;0,02;Se ejecutan las shells solicitadas , durante el proceso no se evidencia fallas, se adjuntan los archivos generados.;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
-2706611;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;3/07/2020 13:48;3/07/2020 13:49;0;0,00;Se genera facturación de las cuentas solicitadas, no se evidencian errores en el proceso. ;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
+2706611;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;3/07/2020 13:48;3/07/2020 13:49;0;0,00;"Se genera facturación de las cuentas solicitadas, no se evidencian errores en el proceso. ";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2706676;Paola Agudelo;COMP;Paola Andrea;Agudelo Urrea;Cambios TIC Interno.OSM.Despliegue PPDN;3/07/2020 14:32;3/07/2020 18:03;211;3,52;Se realiza la eliminación de las ordenes inprogess en la  BD de OSM, de manera satisfactoria.;3/07/2020 14:30;3/07/2020 14:30;0;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
 2706690;Yerzon Carrion;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;3/07/2020 15:22;3/07/2020 15:22;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
@@ -3022,7 +3022,7 @@ Validar aplicación.""";6/07/2020 14:42;6/07/2020 14:42;0;CUMPLE;10;CUMPLE;julio
 2708223;Yerzon Carrion;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;6/07/2020 15:10;6/07/2020 15:10;0;0,00;"""Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.""";6/07/2020 15:05;6/07/2020 15:05;0;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2708252;Daniel Talero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;6/07/2020 15:20;6/07/2020 15:21;1;0,02;Se genera facturación de las cuentas solicitadas, en el proceso no se evidencian fallas.;6/07/2020 15:19;6/07/2020 15:19;0;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
-2708473;Daniel Talero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;6/07/2020 16:34;6/07/2020 16:35;0;0,00;Se genera facturación de las cuentas solicitadas, en el proceso no se evidencian fallos. ;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
+2708473;Daniel Talero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;6/07/2020 16:34;6/07/2020 16:35;0;0,00;"Se genera facturación de las cuentas solicitadas, en el proceso no se evidencian fallos. ";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2708474;Yerzon Carrion;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;6/07/2020 18:51;6/07/2020 18:53;1;0,02;"""Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2708534;Luis Suarez;COMP;Paola Andrea;Agudelo Urrea;Cambios TIC Interno.OSM.Despliegue PPDN;6/07/2020 19:22;6/07/2020 21:35;133;2,22;Se ejecuta segun lo solicitado en el documento adjunto. Se realiza respaldo y actualización de archivos, la pataforma queda operativa;;;;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
@@ -3061,7 +3061,7 @@ mode 2  1725771602  Sun Sep  8 00:00:02 2024
 ";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2709576;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;7/07/2020 13:20;7/07/2020 13:21;1;0,02;Se ejecuta la shell´s solicitadas, durante el proceso no se evidencian fallos, se adjuntan los archivos generados.;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2709595;Daniel Talero;COMP;Usma Aristizabal;Angela Maria;Apl.General.Semilla7.ActualizacionAmbiente;7/07/2020 14:09;7/07/2020 14:10;1;0,02;Se genera los pool´s de los planes solicitados.;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
-2709596;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;7/07/2020 15:40;7/07/2020 16:26;45;0,75;El MSP ejecuta los script y anexa log de ejecución ;;;;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
+2709596;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;7/07/2020 15:40;7/07/2020 16:26;45;0,75;"El MSP ejecuta los script y anexa log de ejecución ";;;;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
 2709618;Yerzon Carrion;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla9.ActualizacionAmbiente;7/07/2020 14:12;7/07/2020 14:12;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2709639;Daniel Talero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;7/07/2020 14:13;7/07/2020 14:15;1;0,02;"Se aplica el cambio de ciclo solicitado.
@@ -3098,7 +3098,7 @@ Ejecutar segun lo solicitado en el documento adjunto.
 Enviar correo informando ejecución de la actividad.";8/07/2020 11:00;8/07/2020 11:40;40;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
 2710340;Laura Forero;COMP;Karen Gizell;Perez Parrado;Apl.General.Semilla7.ActualizacionAmbiente;8/07/2020 10:18;8/07/2020 10:22;4;0,07;"""Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
-2710567;Daniel Talero;COMP;Karen Gizell;Perez Parrado;Apl.General.Semilla7.ActualizacionAmbiente;8/07/2020 11:25;8/07/2020 11:29;3;0,05;Se generan nuevamente las facturas de las cuentas solicitadas, en el proceso no se evidencian errores. ;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
+2710567;Daniel Talero;COMP;Karen Gizell;Perez Parrado;Apl.General.Semilla7.ActualizacionAmbiente;8/07/2020 11:25;8/07/2020 11:29;3;0,05;"Se generan nuevamente las facturas de las cuentas solicitadas, en el proceso no se evidencian errores. ";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2710648;Carlos Montilla;COMP;Alejandra;Vahos Osorio;Apl.General.Semilla4.ActualizacionAmbiente;15/07/2020 11:21;15/07/2020 11:22;1;0,02;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2710659;Daniel Talero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;8/07/2020 11:54;8/07/2020 11:55;1;0,02;"Se efectua el cambio de ciclo solcitado. 
@@ -3137,7 +3137,7 @@ Validar aplicación.""";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2711973;Laura Forero;COMP;Karen Gizell;Perez Parrado;Apl.General.Semilla7.ActualizacionAmbiente;9/07/2020 11:10;9/07/2020 11:24;13;0,22;"Buen día,
 
 Se realiza la facturación mencionada. ";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
-2712047;Luis Suarez;COMP;Argiro;Puerta Restrepo;Cambios TIC Interno.MSS.Despliegue PPDN;9/07/2020 14:30;9/07/2020 14:33;2;0,03;Se valida la ejecución realizar por el MSP y no se presentan inconvenientes ;9/07/2020 14:00;9/07/2020 14:30;30;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
+2712047;Luis Suarez;COMP;Argiro;Puerta Restrepo;Cambios TIC Interno.MSS.Despliegue PPDN;9/07/2020 14:30;9/07/2020 14:33;2;0,03;"Se valida la ejecución realizar por el MSP y no se presentan inconvenientes ";9/07/2020 14:00;9/07/2020 14:30;30;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
 2712071;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla7.ActualizacionAmbiente;9/07/2020 12:28;9/07/2020 13:03;34;0,57;Se generan los archivos xslt con los datos suministrados por el area de QA, durante el proceso no se evidencian errores.;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2712092;Laura Forero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;9/07/2020 12:39;9/07/2020 12:42;2;0,03;"Buen día,
 
@@ -3198,7 +3198,7 @@ mode 2  1745470802  Thu Apr 24 00:00:02 2025";10/07/2020 12:32;10/07/2020 12:32;
 2713450;Daniel Talero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;10/07/2020 13:37;10/07/2020 13:39;1;0,02;Se aplica facturación a la cuenta solicitada, durante el proceso no se evidencian errores.;10/07/2020 13:34;10/07/2020 13:34;0;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2713549;Daniel Talero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;10/07/2020 14:58;10/07/2020 15:00;1;0,02;Se realiza facturación de la cuenta solicitada, se adjunta xslt generado por dicha operación.;10/07/2020 14:51;10/07/2020 14:51;0;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2713638;Daniel Talero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;10/07/2020 16:01;10/07/2020 16:02;1;0,02;Se realiza cambio de ciclo solicitado.;10/07/2020 15:54;10/07/2020 15:54;0;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
-2713652;Daniel Talero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;10/07/2020 16:16;10/07/2020 16:19;3;0,05;Se realiza facturación de la cuenta solicitada. ;10/07/2020 16:12;10/07/2020 16:12;0;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
+2713652;Daniel Talero;COMP;Stiven;Manco Valencia;Apl.General.Semilla10.ActualizacionAmbiente;10/07/2020 16:16;10/07/2020 16:19;3;0,05;"Se realiza facturación de la cuenta solicitada. ";10/07/2020 16:12;10/07/2020 16:12;0;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2713657;Yerzon Carrion;COMP;Johjan Alexis;Osorio Montoya;Apl.General.Semilla7.ActualizacionAmbiente;10/07/2020 16:31;10/07/2020 16:32;0;0,00;"""Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2714163;Johan Borges;COMP;Esteban;Pabon Lopez;Apl.General.Semilla4.ActualizacionAmbiente;11/07/2020 10:50;11/07/2020 10:51;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
@@ -3330,7 +3330,7 @@ CC: ""1014579512""
 CC: ""1017574698""
 CC: ""779684344""
 CC: ""339065264""";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
-2722748;Luis Suarez;COMP;Jorge Albeiro;Cardona Hoyos;Cambios TIC Interno.Siebel.Despliegue PPDN;21/07/2020 13:00;21/07/2020 13:07;6;0,10;Se ejecuta segun lo solicitado en el documento adjunto. Se reanudan los Jobs solicitados ;;;;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
+2722748;Luis Suarez;COMP;Jorge Albeiro;Cardona Hoyos;Cambios TIC Interno.Siebel.Despliegue PPDN;21/07/2020 13:00;21/07/2020 13:07;6;0,10;"Se ejecuta segun lo solicitado en el documento adjunto. Se reanudan los Jobs solicitados ";;;;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
 2722842;Ana Maria David;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;21/07/2020 17:31;21/07/2020 17:31;1;0,02;"termina la ejecución de la oc de forma exitosa
 Ejecutar segun lo solicitado en el documento adjunto.
 Enviar correo informando ejecución de la actividad.";21/07/2020 16:30;21/07/2020 19:30;180;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
@@ -3350,7 +3350,7 @@ Se realiza la solicitud mencionada y se adjunta la respectiva evidencia.";;;;CUM
 2723722;Daniel Talero;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla7.ActualizacionAmbiente;22/07/2020 8:59;22/07/2020 9:01;1;0,02;Se aplica facturación de las cuentas solicitadas, durante el proceso no se evidencian fallas.;;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2723767;Yerzon Carrion;COMP;Alejandra;Vahos Osorio;Apl.General.Semilla9.ActualizacionAmbiente;22/07/2020 10:58;22/07/2020 11:01;3;0,05;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
-2723772;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;22/07/2020 9:27;22/07/2020 9:59;32;0,53;Se ejecuta segun lo solicitado en el documento adjunto. Se realiza cambio de SRF sin inconvenientes ;22/07/2020 10:30;22/07/2020 11:30;60;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
+2723772;Luis Suarez;COMP;Santiago;Cardona Quintero;Cambios TIC Interno.Siebel.Despliegue PPDN;22/07/2020 9:27;22/07/2020 9:59;32;0,53;"Se ejecuta segun lo solicitado en el documento adjunto. Se realiza cambio de SRF sin inconvenientes ";22/07/2020 10:30;22/07/2020 11:30;60;CUMPLE;10;CUMPLE;julio;Fijo;#N/A;NO
 2723860;Yerzon Carrion;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla7.ActualizacionAmbiente;22/07/2020 10:10;22/07/2020 10:11;1;0,02;"""Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2723983;Yerzon Carrion;COMP;Alejandra;Vahos Osorio;Apl.General.Semilla9.ActualizacionAmbiente;22/07/2020 15:50;22/07/2020 15:51;0;0,00;"Valida si la informacion enviada esta completa o cancelar el cambio. Realizar el procedimiento de actualizacion de componente.
@@ -3367,86 +3367,3 @@ Se realiza la solicitud mencionada y se adjunta las evidencias.";;;;CUMPLE;10;CU
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
 2724579;Yerzon Carrion;COMP;Elizabeth;Maldonado Malagon;Apl.General.Semilla7.ActualizacionAmbiente;22/07/2020 18:06;22/07/2020 18:08;1;0,02;"""Realizar el procedimiento de actualizacion de componente.
 Validar aplicación.""";;;;CUMPLE;10;CUMPLE;julio;Móvil;#N/A;NO
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;
