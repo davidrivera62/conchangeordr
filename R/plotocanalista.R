@@ -5,7 +5,7 @@ library(lubridate)
 
 plot.oc.analista <- function(OC, FechaInicio, FechaFin){
 
-  ocdb %>%
+  plot <- ocdb %>%
     filter(FECHA_INICIO_TAREA > FechaInicio & FECHA_CIERRE_TAREA < FechaFin) %>%
     filter(ANALISTA_RESPONSANBLE_CIERRE_TAREA != 'David Rivera' | ANALISTA_RESPONSANBLE_CIERRE_TAREA != 'Jaime Gomez' | ANALISTA_RESPONSANBLE_CIERRE_TAREA != 'Yonny Escobar' ) %>%
     select(ANALISTA_RESPONSANBLE_CIERRE_TAREA,NUM_OC,ESTADO_TAREA) %>%
@@ -25,5 +25,7 @@ plot.oc.analista <- function(OC, FechaInicio, FechaFin){
     theme(legend.position="bottom") +
     coord_flip()+
     ggtitle("Atención de tareas")
+
+  return(plot)
 
 }
