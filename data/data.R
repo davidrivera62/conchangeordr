@@ -1,6 +1,6 @@
 #' Change Orders attended by Controller in 2020
 #'
-#' A dataset containing the change orders made to Controller in testin
+#' A dataset containing the change orders made to Controller in testing
 #' enviroments in 2020
 #'
 #' @format A data frame with 1677 rows and 21 variables:
