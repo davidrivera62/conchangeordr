@@ -1,0 +1,10 @@
+# R for Travis
+
+language: r
+sudo: false
+cache: packages 
+
+warnings_are_errors: false
+
+os:
+  - linux
